@@ -1,4 +1,4 @@
-# Grupo 1 – Sistema de Administración de Usuarios y Privilegios
+# Grupo 1 – Sistema de Gestión de artículos para el hogar
 
 ## Participante:
 - Agustin Cauzi
